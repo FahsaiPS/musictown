@@ -14,3 +14,6 @@ username และ password ที่ใช้สำหรับทดสอบ�
 2. Admin
     username: admin
     passsword: musictown
+
+Document
+[CS251_Project_phase3_ 6309680095.pdf](https://github.com/FahsaiPS/musictown/files/13772818/CS251_Project_phase3_.6309680095.pdf)
