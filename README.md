@@ -1,5 +1,15 @@
 # musictown
 Database System Project
+Web Application for sell K-pop albums.
+
+## Document & Interface
+[CS251_Project_phase3_ 6309680095.pdf](https://github.com/FahsaiPS/musictown/files/13772818/CS251_Project_phase3_.6309680095.pdf)
+
+## Home Page
+![homepage](https://github.com/FahsaiPS/musictown/assets/115086617/84f7216b-ba25-4824-b121-861afe0a34dd)
+![homepage(2)](https://github.com/FahsaiPS/musictown/assets/115086617/258da605-197f-474c-a2dd-c862bed0c536)
+
+
 วิธีการใช้งาน web application
 1. ติดตั้งโปรแกรม Xampp
 2. ดาวน์โหลดไฟล์ zip musictown เมื่อทำการแตกไฟล์จะได้เป็นโฟลเดอร์ musictown นำโฟลเดอร์นี้เข้าไปไว้ในโฟลเดอร์ xampp\htdocs
@@ -14,6 +24,3 @@ username และ password ที่ใช้สำหรับทดสอบ�
 2. Admin
     username: admin
     passsword: musictown
-
-## Document
-[CS251_Project_phase3_ 6309680095.pdf](https://github.com/FahsaiPS/musictown/files/13772818/CS251_Project_phase3_.6309680095.pdf)
