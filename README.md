@@ -5,10 +5,11 @@ Web Application for sell K-pop albums.
 ## Document & Interface
 [CS251_Project_phase3_ 6309680095.pdf](https://github.com/FahsaiPS/musictown/files/13772818/CS251_Project_phase3_.6309680095.pdf)
 
-## Preview Home page Interface
+## Preview Interface
 ![homepage](https://github.com/FahsaiPS/musictown/assets/115086617/84f7216b-ba25-4824-b121-861afe0a34dd)
 ![homepage(2)](https://github.com/FahsaiPS/musictown/assets/115086617/258da605-197f-474c-a2dd-c862bed0c536)
-
+![detail](https://github.com/FahsaiPS/musictown/assets/115086617/dcc983b3-f52d-4cb6-9e7b-4f1cfee82b0d)
+![bag](https://github.com/FahsaiPS/musictown/assets/115086617/6968e7a9-290c-4764-9883-c806eacc606c)
 
 วิธีการใช้งาน web application
 1. ติดตั้งโปรแกรม Xampp
