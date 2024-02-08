@@ -5,7 +5,7 @@ Web Application for sell K-pop albums.
 ## Document & Interface
 [CS251_Project_phase3_ 6309680095.pdf](https://github.com/FahsaiPS/musictown/files/13772818/CS251_Project_phase3_.6309680095.pdf)
 
-## Home Page
+## Preview Home page Interface
 ![homepage](https://github.com/FahsaiPS/musictown/assets/115086617/84f7216b-ba25-4824-b121-861afe0a34dd)
 ![homepage(2)](https://github.com/FahsaiPS/musictown/assets/115086617/258da605-197f-474c-a2dd-c862bed0c536)
 
